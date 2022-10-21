@@ -47,6 +47,7 @@ Users should be able to:
 
 ### What I learned
 This challenge really helped me get a solid grasp on using APIs.
+Some code I'm proud of:
 ```js
 fetch("https://ipapi.co/json/")
   .then((res) => res.json())
